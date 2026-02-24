@@ -1,4 +1,11 @@
 # Laravel's projects
+## Project manager
+
+### Przeznaczenie \ Purpose
+**EN:** Simple, modern app Kanban-like to manage projects and tasks. \
+**PL:** Prosta, nowoczesna aplikacja typu Kanban do zarządzania projektami i zadaniami. \
+[link](https://github.com/kamilszwaradzki/project-manager)
+
 ## RESTful-API-task-management
 
 ### Przeznaczenie \ Purpose
