@@ -1,6 +1,6 @@
 # Laravel's projects
 ## Project manager
-
+<img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/6d904fc1-95b6-433b-8932-a6f8f7ddfee3" />
 ### Przeznaczenie \ Purpose
 **EN:** Simple, modern app Kanban-like to manage projects and tasks. \
 **PL:** Prosta, nowoczesna aplikacja typu Kanban do zarządzania projektami i zadaniami. \
